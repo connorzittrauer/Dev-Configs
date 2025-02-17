@@ -1,0 +1,15 @@
+[/]
+allow-bold=true
+background-color='rgb(36,33,33)'
+bold-color='#99999292b0b0'
+bold-color-same-as-fg=true
+cursor-background-color='rgb(209,165,241)'
+cursor-colors-set=true
+cursor-foreground-color='#20201d1d2a2a'
+foreground-color='rgb(241,237,255)'
+highlight-colors-set=false
+palette=['rgb(32,29,42)', 'rgb(228,141,249)', 'rgb(228,141,249)', 'rgb(236,209,255)', 'rgb(251,219,85)', 'rgb(228,141,249)', 'rgb(228,141,249)', 'rgb(153,146,176)', 'rgb(98,90,124)', 'rgb(228,141,249)', 'rgb(44,40,57)', 'rgb(75,69,95)', 'rgb(110,101,139)', 'rgb(220,210,254)', 'rgb(202,128,255)', 'rgb(239,235,255)']
+use-theme-background=false
+use-theme-colors=false
+use-theme-transparency=false
+visible-name='Base2Tone Lavender'
